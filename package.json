@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2024-t2-prac4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil-Raval1012/sit725-2024-t2-prac4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahil-Raval1012/sit725-2024-t2-prac4/issues"
+  },
+  "homepage": "https://github.com/Sahil-Raval1012/sit725-2024-t2-prac4#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.2"
+  },
+  "keywords": []
+}
