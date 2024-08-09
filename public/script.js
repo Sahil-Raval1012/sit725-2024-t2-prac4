@@ -1,5 +1,5 @@
 let display = document.getElementById('display');
-let history = document.getElementById('history');
+let back = document.getElementById('back');
 
 function appendToDisplay(value) {
     if (display.innerText === '0') {
